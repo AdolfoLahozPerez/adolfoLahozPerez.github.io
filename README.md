@@ -29,5 +29,5 @@ Página estática que presenta el perfil profesional de **Adolfo Lahoz Pérez** 
 
 ## 📌 Notas para mantenimiento
 
-- Para que la foto y el botón de descarga funcionen, ambos archivos (`foto_adolfo_lahoz_perez.jpg` y `CV Adolfo Lahoz Perez.pdf`) deben estar en la misma carpeta que `index.html`, con esos nombres exactos.
+- Para que la foto y el botón de descarga funcionen, ambos archivos (`foto_adolfo_lahoz_perez.jpg` y `CV_Adolfo_Lahoz_Perez_2026.pdf`) deben estar en la misma carpeta que `index.html`, con esos nombres exactos.
 - El contenido del CV debe mantenerse sincronizado con la versión en PDF.
